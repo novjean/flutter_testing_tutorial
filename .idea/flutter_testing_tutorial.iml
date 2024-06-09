@@ -24,11 +24,13 @@
       <excludeFolder url="file://$MODULE_DIR$/integration_testing/tutorial/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/integration_testing/tutorial/build" />
       <excludeFolder url="file://$MODULE_DIR$/integration_testing/tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/unit_testing/tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/unit_testing/tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/unit_testing/tutorial/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
   </component>
 </module>

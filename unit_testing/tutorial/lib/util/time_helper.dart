@@ -1,6 +1,6 @@
 class TimeHelper {
-  static String getTimeOfTheDay() {
-    DateTime time = DateTime.now();
+  static String getTimeOfTheDay(DateTime time) {
+    // DateTime time = DateTime.now();
 
     if (time.hour >= 0 && time.hour < 6) return "Night";
     if (time.hour >= 6 && time.hour < 12) return "Morning";
